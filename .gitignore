@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environments
+.env
+venv/
+env/
+
+# Data / models (do NOT commit large files)
+svm_cats_dogs.joblib
+/train/
+/train/*
